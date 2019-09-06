@@ -1,0 +1,4 @@
+#/bin/bash
+
+killall mopidy > /dev/null 2>&1
+mopidy > /dev/null 2>&1 &
