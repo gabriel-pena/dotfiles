@@ -9,6 +9,7 @@
 - Grim
 - Material Icons Fonts
 - Fantasque Sans Nerd Font
+- ImageMagick
 
 #### Screenshot
 
