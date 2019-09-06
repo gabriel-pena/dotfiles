@@ -6,7 +6,6 @@
 - Oh-my-zsh
 - Mopidy
 - Waybar
-- C.A.V.A
 - Material Icons Fonts
 - Fantasque Sans Nerd Font
 
