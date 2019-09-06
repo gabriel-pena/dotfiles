@@ -6,6 +6,7 @@
 - Oh-my-zsh
 - Mopidy
 - Waybar
+- Grim
 - Material Icons Fonts
 - Fantasque Sans Nerd Font
 
