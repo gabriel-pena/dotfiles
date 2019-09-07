@@ -144,9 +144,10 @@
     },
     "custom/mpdtop": {
     	"format": " {}",
-	"interval": 5,
+	"interval": 1,
 	"return-type": "json",
-	"exec": "~/.config/waybar/modules/mpd.sh"
+	"exec": "~/.config/waybar/modules/mpd.sh",
+	"on-click": "mpc toggle"
     },
     "custom/weather": {
         "format": "{}",

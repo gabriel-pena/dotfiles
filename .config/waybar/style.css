@@ -213,3 +213,311 @@ label:focus {
     background-color: #51a37a;
 }
 */
+#custom-mpdtop.active{
+	background-color: white;
+	transition: background-image 0.3s ease;
+}
+#custom-mpdtop.0{
+  background-color: #1f1f1f;
+}
+#custom-mpdtop.1{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 0% , rgba(31,31,31, 1) 1%);
+}
+#custom-mpdtop.2{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 1% , rgba(31,31,31, 1) 2%);
+}
+#custom-mpdtop.3{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 2% , rgba(31,31,31, 1) 3%);
+}
+#custom-mpdtop.4{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 3% , rgba(31,31,31, 1) 4%);
+}
+#custom-mpdtop.5{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 4% , rgba(31,31,31, 1) 5%);
+}
+#custom-mpdtop.6{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 5% , rgba(31,31,31, 1) 6%);
+}
+#custom-mpdtop.7{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 6% , rgba(31,31,31, 1) 7%);
+}
+#custom-mpdtop.8{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 7% , rgba(31,31,31, 1) 8%);
+}
+#custom-mpdtop.9{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 8% , rgba(31,31,31, 1) 9%);
+}
+#custom-mpdtop.10{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 9% , rgba(31,31,31, 1) 10%);
+}
+#custom-mpdtop.11{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 10% , rgba(31,31,31, 1) 11%);
+}
+#custom-mpdtop.12{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 11% , rgba(31,31,31, 1) 12%);
+}
+#custom-mpdtop.13{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 12% , rgba(31,31,31, 1) 13%);
+}
+#custom-mpdtop.14{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 13% , rgba(31,31,31, 1) 14%);
+}
+#custom-mpdtop.15{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 14% , rgba(31,31,31, 1) 15%);
+}
+#custom-mpdtop.16{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 15% , rgba(31,31,31, 1) 16%);
+}
+#custom-mpdtop.17{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 16% , rgba(31,31,31, 1) 17%);
+}
+#custom-mpdtop.18{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 17% , rgba(31,31,31, 1) 18%);
+}
+#custom-mpdtop.19{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 18% , rgba(31,31,31, 1) 19%);
+}
+#custom-mpdtop.20{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 19% , rgba(31,31,31, 1) 20%);
+}
+#custom-mpdtop.21{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 20% , rgba(31,31,31, 1) 21%);
+}
+#custom-mpdtop.22{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 21% , rgba(31,31,31, 1) 22%);
+}
+#custom-mpdtop.23{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 22% , rgba(31,31,31, 1) 23%);
+}
+#custom-mpdtop.24{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 23% , rgba(31,31,31, 1) 24%);
+}
+#custom-mpdtop.25{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 24% , rgba(31,31,31, 1) 25%);
+}
+#custom-mpdtop.26{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 25% , rgba(31,31,31, 1) 26%);
+}
+#custom-mpdtop.27{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 26% , rgba(31,31,31, 1) 27%);
+}
+#custom-mpdtop.28{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 27% , rgba(31,31,31, 1) 28%);
+}
+#custom-mpdtop.29{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 28% , rgba(31,31,31, 1) 29%);
+}
+#custom-mpdtop.30{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 29% , rgba(31,31,31, 1) 30%);
+}
+#custom-mpdtop.31{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 30% , rgba(31,31,31, 1) 31%);
+}
+#custom-mpdtop.32{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 31% , rgba(31,31,31, 1) 32%);
+}
+#custom-mpdtop.33{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 32% , rgba(31,31,31, 1) 33%);
+}
+#custom-mpdtop.34{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 33% , rgba(31,31,31, 1) 34%);
+}
+#custom-mpdtop.35{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 34% , rgba(31,31,31, 1) 35%);
+}
+#custom-mpdtop.36{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 35% , rgba(31,31,31, 1) 36%);
+}
+#custom-mpdtop.37{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 36% , rgba(31,31,31, 1) 37%);
+}
+#custom-mpdtop.38{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 37% , rgba(31,31,31, 1) 38%);
+}
+#custom-mpdtop.39{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 38% , rgba(31,31,31, 1) 39%);
+}
+#custom-mpdtop.40{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 39% , rgba(31,31,31, 1) 40%);
+}
+#custom-mpdtop.41{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 40% , rgba(31,31,31, 1) 41%);
+}
+#custom-mpdtop.42{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 41% , rgba(31,31,31, 1) 42%);
+}
+#custom-mpdtop.43{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 42% , rgba(31,31,31, 1) 43%);
+}
+#custom-mpdtop.44{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 43% , rgba(31,31,31, 1) 44%);
+}
+#custom-mpdtop.45{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 44% , rgba(31,31,31, 1) 45%);
+}
+#custom-mpdtop.46{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 45% , rgba(31,31,31, 1) 46%);
+}
+#custom-mpdtop.47{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 46% , rgba(31,31,31, 1) 47%);
+}
+#custom-mpdtop.48{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 47% , rgba(31,31,31, 1) 48%);
+}
+#custom-mpdtop.49{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 48% , rgba(31,31,31, 1) 49%);
+}
+#custom-mpdtop.50{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 49% , rgba(31,31,31, 1) 50%);
+}
+#custom-mpdtop.51{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 50% , rgba(31,31,31, 1) 51%);
+}
+#custom-mpdtop.52{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 51% , rgba(31,31,31, 1) 52%);
+}
+#custom-mpdtop.53{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 52% , rgba(31,31,31, 1) 53%);
+}
+#custom-mpdtop.54{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 53% , rgba(31,31,31, 1) 54%);
+}
+#custom-mpdtop.55{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 54% , rgba(31,31,31, 1) 55%);
+}
+#custom-mpdtop.56{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 55% , rgba(31,31,31, 1) 56%);
+}
+#custom-mpdtop.57{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 56% , rgba(31,31,31, 1) 57%);
+}
+#custom-mpdtop.58{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 57% , rgba(31,31,31, 1) 58%);
+}
+#custom-mpdtop.59{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 58% , rgba(31,31,31, 1) 59%);
+}
+#custom-mpdtop.60{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 59% , rgba(31,31,31, 1) 60%);
+}
+#custom-mpdtop.61{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 60% , rgba(31,31,31, 1) 61%);
+}
+#custom-mpdtop.62{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 61% , rgba(31,31,31, 1) 62%);
+}
+#custom-mpdtop.63{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 62% , rgba(31,31,31, 1) 63%);
+}
+#custom-mpdtop.64{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 63% , rgba(31,31,31, 1) 64%);
+}
+#custom-mpdtop.65{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 64% , rgba(31,31,31, 1) 65%);
+}
+#custom-mpdtop.66{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 65% , rgba(31,31,31, 1) 66%);
+}
+#custom-mpdtop.67{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 66% , rgba(31,31,31, 1) 67%);
+}
+#custom-mpdtop.68{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 67% , rgba(31,31,31, 1) 68%);
+}
+#custom-mpdtop.69{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 68% , rgba(31,31,31, 1) 69%);
+}
+#custom-mpdtop.70{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 69% , rgba(31,31,31, 1) 70%);
+}
+#custom-mpdtop.71{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 70% , rgba(31,31,31, 1) 71%);
+}
+#custom-mpdtop.72{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 71% , rgba(31,31,31, 1) 72%);
+}
+#custom-mpdtop.73{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 72% , rgba(31,31,31, 1) 73%);
+}
+#custom-mpdtop.74{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 73% , rgba(31,31,31, 1) 74%);
+}
+#custom-mpdtop.75{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 74% , rgba(31,31,31, 1) 75%);
+}
+#custom-mpdtop.76{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 75% , rgba(31,31,31, 1) 76%);
+}
+#custom-mpdtop.77{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 76% , rgba(31,31,31, 1) 77%);
+}
+#custom-mpdtop.78{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 77% , rgba(31,31,31, 1) 78%);
+}
+#custom-mpdtop.79{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 78% , rgba(31,31,31, 1) 79%);
+}
+#custom-mpdtop.80{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 79% , rgba(31,31,31, 1) 80%);
+}
+#custom-mpdtop.81{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 80% , rgba(31,31,31, 1) 81%);
+}
+#custom-mpdtop.82{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 81% , rgba(31,31,31, 1) 82%);
+}
+#custom-mpdtop.83{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 82% , rgba(31,31,31, 1) 83%);
+}
+#custom-mpdtop.84{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 83% , rgba(31,31,31, 1) 84%);
+}
+#custom-mpdtop.85{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 84% , rgba(31,31,31, 1) 85%);
+}
+#custom-mpdtop.86{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 85% , rgba(31,31,31, 1) 86%);
+}
+#custom-mpdtop.87{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 86% , rgba(31,31,31, 1) 87%);
+}
+#custom-mpdtop.88{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 87% , rgba(31,31,31, 1) 88%);
+}
+#custom-mpdtop.89{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 88% , rgba(31,31,31, 1) 89%);
+}
+#custom-mpdtop.90{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 89% , rgba(31,31,31, 1) 90%);
+}
+#custom-mpdtop.91{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 90% , rgba(31,31,31, 1) 91%);
+}
+#custom-mpdtop.92{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 91% , rgba(31,31,31, 1) 92%);
+}
+#custom-mpdtop.93{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 92% , rgba(31,31,31, 1) 93%);
+}
+#custom-mpdtop.94{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 93% , rgba(31,31,31, 1) 94%);
+}
+#custom-mpdtop.95{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 94% , rgba(31,31,31, 1) 95%);
+}
+#custom-mpdtop.96{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 95% , rgba(31,31,31, 1) 96%);
+}
+#custom-mpdtop.97{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 96% , rgba(31,31,31, 1) 97%);
+}
+#custom-mpdtop.98{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 97% , rgba(31,31,31, 1) 98%);
+}
+#custom-mpdtop.99{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 98% , rgba(31,31,31, 1) 99%);
+}
+#custom-mpdtop.100{
+  background-image: linear-gradient(to right, rgba(31,31,31, 0.8) 99% , rgba(31,31,31, 1) 100%);
+}
+
