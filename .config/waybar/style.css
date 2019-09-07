@@ -83,6 +83,7 @@ window#waybar.chromium {
 #tray,
 #mode,
 #custom-weather,
+#custom-mpdtop,
 #idle_inhibitor {
     padding: 0 10px;
     margin: 4px 4px;

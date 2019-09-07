@@ -8,7 +8,7 @@
     // Choose the order of the modules
     "modules-left": ["sway/workspaces", "sway/mode", "custom/media"],
     "modules-center": [],
-    "modules-right": ["custom/weather","mpd", "pulseaudio", "network", "clock", "tray"],
+    "modules-right": ["custom/weather","custom/mpdtop", "pulseaudio", "network", "clock", "tray"],
     // Modules configuration
     "sway/workspaces": {
          "disable-scroll": true,
@@ -142,12 +142,18 @@
         "exec": "$HOME/.config/waybar/mediaplayer.py 2> /dev/null" // Script in resources folder
         // "exec": "$HOME/.config/waybar/mediaplayer.py --player spotify 2> /dev/null" // Filter player based on name
     },
+    "custom/mpdtop": {
+    	"format": " {}",
+	"interval": 5,
+	"return-type": "json",
+	"exec": "~/.config/waybar/modules/mpd.sh"
+    },
     "custom/weather": {
         "format": "{}",
         "format-alt": "{alt}: {}",
         "format-alt-click": "click-right",
         "interval": 220,
         "return-type": "json",
-        "exec": "~/.config/waybar/modules/weather.sh City"
+        "exec": "~/.config/waybar/modules/weather.sh Araraquara"
     }
 }
